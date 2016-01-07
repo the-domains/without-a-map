@@ -1,7 +1,7 @@
 name: Without A Map
 favicon: null
 layout_spectrum: 0.614619261585176
-typography_spectrum: 0.8858855795115232
+typography_spectrum: 0.67397
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8477723486721516
+  brandStrength: 0.875
   lightness: 0.4214192444924265
   saturation: 0.793544381391257
   rhythmicContrast: 0.35194442770443857
