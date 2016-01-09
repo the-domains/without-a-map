@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Without A Map]]></title>
         <description><![CDATA[Without A Map]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/without-a-map/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 22:36:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 19:28:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/without-a-map/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Beginnings]]></title>
             <description><![CDATA[<article><h1>New Beginnings</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f422c6872bf7d6d3c9c0ff837b2bc4ceaf1a7fe1.jpg"></article>]]></description>
-            <link>undefinednew-beginnings/index.html</link>
+            <link>https://thegrid.ai/without-a-map/new-beginnings/index.html</link>
             <guid isPermaLink="false">cf924a50-48ed-46be-b70c-2349f5a000ab</guid>
-            <pubDate>Thu, 07 Jan 2016 22:36:35 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 19:28:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
