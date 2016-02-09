@@ -2,6 +2,7 @@ name: Without A Map
 favicon: null
 layout_spectrum: 0.49368
 typography_spectrum: 0.67397
+title: Without A Map
 cta:
   domain: null
   bucket: null
