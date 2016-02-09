@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T21:29:11.380Z'
-dateModified: '2016-02-09T21:29:08.763Z'
+datePublished: '2016-02-09T21:28:38.151Z'
+dateModified: '2016-02-09T21:28:34.476Z'
 title: Another New Post
 author: []
 sourcePath: _posts/2016-02-09-another-new-post.md
