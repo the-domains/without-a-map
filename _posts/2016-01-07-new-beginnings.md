@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T19:28:02.692Z'
-dateModified: '2016-01-07T22:36:35.571Z'
+datePublished: '2016-02-09T21:30:46.292Z'
+dateModified: '2016-02-09T21:30:38.202Z'
 title: New Beginnings
 author: []
+sourcePath: _posts/2016-01-07-new-beginnings.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-07-new-beginnings.md
-published: true
 url: new-beginnings/index.html
 _type: Article
 
