@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T21:28:38.151Z'
-dateModified: '2016-02-09T21:28:34.476Z'
+datePublished: '2016-02-09T21:27:52.606Z'
+dateModified: '2016-02-09T21:26:33.815Z'
 title: Another New Post
 author: []
-sourcePath: _posts/2016-02-09-another-new-post.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-02-09-another-new-post.md
+published: true
 url: another-new-post/index.html
 _type: Article
 
